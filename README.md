@@ -1,8 +1,8 @@
 # ToDoList
 A Simple To Do List By Java : 
-Add New Task
-Remove A Task
-Mark A Task As Completed
-View All Tasks
-Clear The List
-Exit The Applicatio
+1- Add New Task
+2- Remove A Task
+3- Mark A Task As Completed
+4- View All Tasks
+5- Clear The List
+6- Exit The Applicatio
